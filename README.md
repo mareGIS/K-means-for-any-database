@@ -14,5 +14,5 @@ insights into the structure of complex datasets.
 The script is adapted from [morenobcn's capstone GitHub project](https://github.com/morenobcn/capstone_hotels_arcpy)
 where he analyses hotel price clustering.
 
-The database "Fires from Space: Australia" was uploaded by Carlos Paradis via "NASA FIRMS Archive Download" in the platform kaggle.
+The database ["Fires from Space: Australia"](https://www.kaggle.com/datasets/carlosparadis/fires-from-space-australia-and-new-zeland/versions/1?resource=download) was uploaded by Carlos Paradis via "NASA FIRMS Archive Download" in the platform kaggle.
 This database is related to remote sensing of fires. The file we have specifically relied on is the one related to the MODIS satellite: "fire_archive_M6_96619.csv".
